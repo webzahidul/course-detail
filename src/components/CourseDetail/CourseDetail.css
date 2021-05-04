@@ -1,0 +1,15 @@
+.course-detail{
+   
+    margin-bottom:5px;
+    padding-bottom:5px ;
+    border-bottom: 2px solid goldenrod;
+}
+.course-name{
+    border-bottom: 1 px solid lightgrey;
+}
+.main-btn{
+    background-color: goldenrod;
+    border: 1px solid light;
+    border-radius: 2px;
+    cursor: pointer;
+}
